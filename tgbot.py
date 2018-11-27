@@ -9,7 +9,7 @@ from tguser import get_user_by_id, TGUser, add_user, remove_user, get_all
 
 __author__ = 'Semyon'
 
-token = '130239822:AAFGuwrEqaXxkPZ_vowX5a3yf-_hXEEUJg4'
+token = '754341065:AAHKCW5cWYQru12isI9HSWcJLerwm2jvHKg'
 beer_sticker_id = 'BQADAgAD_QADns4LAAHbXk6lTJ0R5QI'
 
 photos = ['AgADAgADK6kxG2CJvgNdswd7pploZjZehCoABKs4QZTv6iZwp1sBAAEC',
